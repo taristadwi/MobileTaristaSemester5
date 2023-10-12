@@ -33,13 +33,15 @@ Pertama, Anda akan membuat kolom bagian kiri pada judul. Tambahkan kode berikut 
 <img width="393" alt="image" src="https://github.com/taristadwi/MobileTaristaSemester5/assets/119827471/f24416a0-ec9d-4dd9-95db-16df67ec68de">
 
 
+
 <img width="446" alt="image" src="https://github.com/taristadwi/MobileTaristaSemester5/assets/119827471/1e3707e3-e16f-439c-9a96-bae390a69d94">
+
 
 
 <img width="283" alt="image" src="https://github.com/taristadwi/MobileTaristaSemester5/assets/119827471/18e2d57a-5119-49d6-a144-71a10318cb09">
 
 
-Hasil Running:
+## Hasil Running:
 
 <img width="371" alt="image" src="https://github.com/taristadwi/MobileTaristaSemester5/assets/119827471/315d79c6-b1a3-4bda-a532-7f10c0402ad8">
 
@@ -110,7 +112,9 @@ Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karen
 <img width="121" alt="image" src="https://github.com/taristadwi/MobileTaristaSemester5/assets/119827471/81544847-06b2-4bc5-b0d3-af57f46de348">
 
 
-hasil running:
+
+
+## hasil running:
 
 
 <img width="374" alt="image" src="https://github.com/taristadwi/MobileTaristaSemester5/assets/119827471/09e6c65d-3c56-41c3-a753-7c8fd27de4fc">
