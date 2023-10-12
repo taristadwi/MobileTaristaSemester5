@@ -12,9 +12,6 @@ Buka file main.dart lalu ganti dengan kode berikut. Isi nama dan NIM Anda di tex
 
 <img width="491" alt="image" src="https://github.com/taristadwi/MobileTaristaSemester5/assets/119827471/0ecffa25-0167-463c-a608-1039876aeab1">
 
-HASIL RUNNING:
-
-<img width="775" alt="image" src="https://github.com/taristadwi/MobileTaristaSemester5/assets/119827471/2dfb07cc-d471-4af7-bea7-cc38e6481ac8">
 
 # Langkah 3: Identifikasi layout diagram
 Langkah pertama adalah memecah tata letak menjadi elemen dasarnya:
